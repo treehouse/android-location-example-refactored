@@ -1,2 +1,0 @@
-android-location-example-refactored
-===================================
